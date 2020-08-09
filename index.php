@@ -1,4 +1,6 @@
-
+<?php
+include_once 'database.php';
+if ($conexion->connect_error); ?>
 <!DOCTYPE html>
 <html lang="en">
 
