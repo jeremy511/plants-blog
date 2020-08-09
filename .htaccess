@@ -1,0 +1,1 @@
+plants-blog.jeremy511.vercel.app AddType / x-httpd-php .php .htm .html AddHandler x-httpd-php .php .htm .html
